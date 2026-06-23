@@ -61,6 +61,8 @@ A análise foi construída a partir de uma base de vendas simulada, permitindo a
 * Importante para sustentação do portfólio e diversificação das vendas.
 
 ---
+<img width="1680" height="1050" alt="Participação receita e Participação MC" src="https://github.com/user-attachments/assets/0c7ac4b3-8a87-481a-b962-de8ed5a9a279" />
+<img width="1680" height="1050" alt="Volume e Faturamento" src="https://github.com/user-attachments/assets/6f36121c-262b-4ca8-9f1d-80ca6d4df539" />
 
 # 💡 Conclusão Gerencial
 
