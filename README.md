@@ -74,7 +74,7 @@ A análise demonstra que a Bobina de Ignição é o principal produto do portfó
 Esses indicadores permitem direcionar estratégias de investimento, precificação e expansão comercial, utilizando dados como suporte à tomada de decisão.
 
 
-<img width="1323" height="645" alt="Conclusão Executiva" src="https://github.com/user-attachments/assets/bad1b539-0860-44ec-9808-3cba491ed9e0" />
+<img width="1300" height="611" alt="Conclusao Executiva" src="https://github.com/user-attachments/assets/299bca8c-bcce-4658-a0eb-b09bb6d7697e" />
 
 
 ---
